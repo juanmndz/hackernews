@@ -1,6 +1,6 @@
-# Hacker News Api Client
+# Hacker News Api Client [![Build Status](https://travis-ci.org/juanmndz/hackernews.svg?branch=master)](https://travis-ci.org/juanmndz/hackernews)
 
-Recieve .
+Use Hackernews api to create search request for Hackernews with custom parameters.
 [Demo](https://localhost:3000/)
 
 ## Techonology Used
